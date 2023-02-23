@@ -1,0 +1,1 @@
+firxed bug in 3.0
